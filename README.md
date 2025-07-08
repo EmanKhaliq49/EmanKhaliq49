@@ -12,7 +12,6 @@ I am currently working on python.<br>I'm looking to collaborate on open source p
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmanKhaliq49&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanKhaliq49&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EmanKhaliq49&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
